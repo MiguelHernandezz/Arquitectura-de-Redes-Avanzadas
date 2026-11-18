@@ -48,6 +48,21 @@ Hands-on networking labs, from capturing real traffic in the UAH lab with **Wire
 
 ---
 
+<!-- syllabus:start -->
+## 📘 Syllabus · official UAH teaching guide
+
+> **Redes de Computadores (780017)** · 6 ECTS · 2nd year · 2nd semester · contents from the 2025-26 teaching guide · [official subject page](https://www.uah.es/es/estudios/estudios-oficiales/grados/asignatura/Redes-de-Computadores-780017/)
+
+| Unit | Hours | Topics |
+|---|---|---|
+| Network layer | 20 h | Virtual-circuit and datagram networks · IP and ICMP · Routing algorithms, OSPF and BGP · Addressing, DHCP and NAT |
+| Link layer | 16 h | Link control and ARP · Medium access control, Ethernet and switches · VLANs and PPP · Wireless (Wi-Fi, Bluetooth) and mobile networks |
+| Network security and management | 12 h | Network security and cryptography · Network management and administration |
+| Integration exercises | 8 h | – |
+<!-- syllabus:end -->
+
+---
+
 <div align="center">
 
 Miguel Hernández López · [GitHub](https://github.com/MiguelHernandezz) · [LinkedIn](https://www.linkedin.com/in/miguel-hernandez-lopez/)
